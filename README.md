@@ -33,7 +33,7 @@ curl https://raw.githubusercontent.com/vaudois/install_DmcAddpStrm/master/bootst
 ## This script has an interactive beginning and will ask for the following information :
 
 - Path to stratum file (You can enter )(Example)): /var/stratum)
-- Set stratum
+- For stratum in future release....
 
 ***********************************
 
@@ -46,6 +46,8 @@ $ addport
 $ *stratumbuilder
 
 *this scrypt ahre integrated in  furure release
+
+INFO : daemonbuilder to build a new coin in Yiimp & addport if to use from open dedicated port and create coin to algo ex: vkax.gr.conf ans strating stratum and create to log stratum with screen = screen -r vkax
 *****************************************************************************
 
 ## 🎁 Support
