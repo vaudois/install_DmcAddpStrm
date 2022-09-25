@@ -21,6 +21,7 @@ if [ ! -d $HOME/daemoncoin-addport-stratum ]; then
 	fi
 	
 	echo Downloading  Installer daemoncoin-addport-stratum ${TAG}. . .
+	sleep 3
 	git clone \
 		-b ${TAG} --depth 1 \
 		https://github.com/vaudois/daemoncoin-addport-stratum \
