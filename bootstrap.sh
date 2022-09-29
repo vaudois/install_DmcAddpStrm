@@ -5,7 +5,7 @@
 # This scrypt run to install Daemon Coin & Addport & Straum
 #########################################################
 if [ -z "${TAG}" ]; then
-	TAG=v0.4
+	TAG=v0.5
 fi
 
 DIRINSTALL=daemoncoin-addport-stratum
