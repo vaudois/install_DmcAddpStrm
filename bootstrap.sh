@@ -10,7 +10,7 @@ fi
 
 DIRINSTALL=daemoncoin-addport-stratum
 
-# Clone the repository if it doesn't exist.
+# Clone the repository if it doesn't exist...
 if [ ! -d $HOME/daemoncoin-addport-stratum ]; then
 	if [ ! -f /usr/bin/git ]; then
 		echo Installing git . . .
