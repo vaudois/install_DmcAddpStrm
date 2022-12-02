@@ -1,4 +1,4 @@
-# Install Daemon COIN & Addport & Stratum (update 2022-11-28) v0.7.5
+# Install Daemon COIN & Addport & Stratum (update 2022-12-02) v0.7.6
 ***********************************************
 <a href="https://discord.gg/xfSwnN7J"><img src="https://img.shields.io/discord/904564600354254898.svg?style=flat&label=Discord %3C3%20&color=7289DA%22" alt="Join Community Badge"/></a>
 
